@@ -1,1 +1,2 @@
 # Hospital-management-System
+An ASP.NET MVC web application for managing hospital operations, including patient records, doctor scheduling, appointments, and billing. The system ensures efficient management of medical services with a structured MVC architecture
